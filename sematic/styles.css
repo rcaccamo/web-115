@@ -1,0 +1,46 @@
+body {
+    background: white;
+    font-family: arial, helvetica, sans-serif;
+}
+
+#container {
+    background: gray;
+    color: darkblue;
+    width: 1000px;
+    min-height: 800px;
+    margin: 5px auto;
+    border: 5px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+h2,h3 {
+    color: floralwhite;
+}
+aside  {
+    width: 30%;
+    min-height: 1600px;
+    float: right;
+    padding-left: 50px;
+}
+
+img {
+    width: 300px
+}
+
+article {
+
+   text-align: center
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    min-height: 40px;
+    text-align: center;
+}
+
+footer {
+    padding: 10px;
+}
